@@ -80,3 +80,9 @@
 //     var filtered = arr.filter(noNull => noNull !== null)
 //     return filtered
 // }
+
+// Fix the Error: Vowel Edition
+
+// function removeVowels(str) {
+//     return str.replace(/[aeiou]/gi, '')
+// }
