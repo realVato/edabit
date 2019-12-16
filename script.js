@@ -18,3 +18,10 @@
 //     var pigsLegs = pigs * 4
 //     return chickensLegs + cowsLegs + pigsLegs
 // }
+
+// Find the Largest Number in an Array
+
+// function findLargestNum(arr) {
+//     return Math.max.apply(null, arr)
+// }
+
