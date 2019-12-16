@@ -25,3 +25,9 @@
 //     return Math.max.apply(null, arr)
 // }
 
+// Count Syllables
+
+// function numberSyllables(word) {
+//     var stringify = word.split('-')
+//     return stringify.length
+// }
