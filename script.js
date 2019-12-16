@@ -66,3 +66,10 @@
 //     ]
 //     return months[num - 1]
 // }
+
+// Convert Number to String of Dashes
+
+// function Go(num) {
+//     var dash = '-'
+//     return dash.repeat(num)
+// }
