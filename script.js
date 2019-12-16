@@ -39,3 +39,11 @@
 //     var minutesToSec = minutes * 60
 //     return hoursToSec + minutesToSec
 // }
+
+// Difference of Max and Min Numbers in Array
+
+// function diffMaxMin(arr) {
+//     var min = Math.min(...arr)
+//     var max = Math.max(...arr)
+//     return max - min
+// }
