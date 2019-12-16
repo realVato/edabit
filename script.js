@@ -31,3 +31,11 @@
 //     var stringify = word.split('-')
 //     return stringify.length
 // }
+
+// Convert Hours and Minutes into Seconds
+
+// function convert(hours, minutes) {
+//     var hoursToSec = (hours * 60) * 60
+//     var minutesToSec = minutes * 60
+//     return hoursToSec + minutesToSec
+// }
