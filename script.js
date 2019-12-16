@@ -73,3 +73,10 @@
 //     var dash = '-'
 //     return dash.repeat(num)
 // }
+
+// Remove Null from an Array
+
+// function removeNull(arr) {
+//     var filtered = arr.filter(noNull => noNull !== null)
+//     return filtered
+// }
