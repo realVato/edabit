@@ -47,3 +47,22 @@
 //     var max = Math.max(...arr)
 //     return max - min
 // }
+
+// Convert Number to Corresponding Month Name
+
+// function monthName(num) {
+//     var months = ['January',
+//         'February',
+//         'March',
+//         'April',
+//         'May',
+//         'June',
+//         'July',
+//         'August',
+//         'September',
+//         'October',
+//         'November',
+//         'December'
+//     ]
+//     return months[num - 1]
+// }
