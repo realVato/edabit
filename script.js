@@ -86,3 +86,21 @@
 // function removeVowels(str) {
 //     return str.replace(/[aeiou]/gi, '')
 // }
+
+// Filter out Strings from an Array
+
+// function filterArray(arr) {
+//     var filtered = arr.filter(noString => typeof noString !== 'string')
+//     return filtered
+// }
+
+
+// Sum of Cubes
+
+// function sumOfCubes(nums) {
+//     var reducer = (accumulator, currentValue) => accumulator + currentValue
+//     var arrPow = nums.map(sum => Math.pow(sum, 3))
+//     var reduced = arrPow.reduce(reducer, 0)
+
+//     return reduced
+// }
