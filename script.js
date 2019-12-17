@@ -104,3 +104,14 @@
 
 //     return reduced
 // }
+
+// Absolute Sum
+
+// function getAbsSum(arr) {
+
+//     var reducer = (total, sum) => total + sum
+//     var absNumber = arr.map(num => Math.abs(num))
+//     var reduced = absNumber.reduce(reducer)
+
+//     return reduced
+// }
