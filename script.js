@@ -131,3 +131,11 @@
 
 //     return
 // }
+
+// Secret Society
+
+// function societyName(friends) {
+//     var sorted = friends.sort()
+//     var grpName = sorted.map(name => name[0]).join('')
+//     return grpName
+// }
