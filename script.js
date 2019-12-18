@@ -157,3 +157,15 @@
 // function firstVowel(str) {
 //     return str.search(/[aeiou]/gi)
 // }
+
+// Return the Factorial
+
+// function factorial(int) {
+//     if (int < 0)
+//         return -1;
+//     else if (int == 0)
+//         return 1;
+//     else {
+//         return (int * factorial(int - 1));
+//     }
+// }
