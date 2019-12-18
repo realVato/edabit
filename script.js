@@ -151,3 +151,9 @@
 //         return "there is no 7 in the array"
 //     }
 // }
+
+// Return the Index of the First Vowel
+
+// function firstVowel(str) {
+//     return str.search(/[aeiou]/gi)
+// }
