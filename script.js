@@ -139,3 +139,15 @@
 //     var grpName = sorted.map(name => name[0]).join('')
 //     return grpName
 // }
+
+// Seven Boom!
+
+// function sevenBoom(arr) {
+//     var globalRegex = RegExp(7, 'g')
+
+//     if (globalRegex.test(arr)) {
+//         return "Boom!"
+//     } else {
+//         return "there is no 7 in the array"
+//     }
+// }
