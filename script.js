@@ -169,3 +169,9 @@
 //         return (int * factorial(int - 1));
 //     }
 // }
+
+// Convert to Decimal Notation
+
+// function convertToDecimal(perc) {
+//     return perc.map(num => parseFloat(num) / 100)
+// }
