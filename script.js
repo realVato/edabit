@@ -175,3 +175,9 @@
 // function convertToDecimal(perc) {
 //     return perc.map(num => parseFloat(num) / 100)
 // }
+
+// Hashes and Pluses
+
+// function hashPlusCount(str) {
+//     return [str.split('+').join('').length, str.split('#').join('').length]
+// }
