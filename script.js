@@ -186,3 +186,12 @@
 
 // let x = /^\d*[02468]$/
 
+// Repeating Letters
+
+// function doubleChar(str) {
+//     let split = str.split('')
+//     let map = split.map(char => char.repeat(2))
+//     let join = map.join('')
+
+//     return join
+// }
