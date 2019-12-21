@@ -181,3 +181,8 @@
 // function hashPlusCount(str) {
 //     return [str.split('+').join('').length, str.split('#').join('').length]
 // }
+
+// Regex Series: Even Number?
+
+// let x = /^\d*[02468]$/
+
